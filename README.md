@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first git repository
-Author-Anushka Gangwar
+Author-Anushka Gangwar (Apana college)
